@@ -1,0 +1,2 @@
+# WoIntentService
+IntentService多任务用法，根据不同action执行不同任务，包含应用退出后，Service重新启动
